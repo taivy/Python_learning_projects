@@ -25,8 +25,6 @@ def capture(matrix):
     return count
 
 
-
-
 if __name__ == '__main__':
     assert capture([[0, 1, 0, 1, 0, 1],
                     [1, 8, 1, 0, 0, 0],
